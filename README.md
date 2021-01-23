@@ -23,12 +23,14 @@ The log files in the dataset I'll be working with are partitioned by year and mo
 `log_data/2018/11/2018-11-13-events.json`
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like:
 
-add the screeshot here 
+<img width="759" alt="pandas-overview" src="https://user-images.githubusercontent.com/47854692/105573490-47551780-5d5e-11eb-92d3-daa2f1016d93.PNG">
+
+
 
 ### Data model
 ##### ERD
 
-add the schema here
+![ERD-Sparkify](https://user-images.githubusercontent.com/47854692/105573450-fb09d780-5d5d-11eb-9cab-edaca8a9d9b7.png)
 
 ##### Data Dictionary 
 `songs` : dimension table about songs

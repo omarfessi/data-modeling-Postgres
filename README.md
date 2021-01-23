@@ -105,7 +105,7 @@ This one is a little more complicated since information from the songs table, ar
 
 ## Code execution steps:
 
-•	Run create_tables.py to drop if exists then create your database and tables.
-•	Run etl.py to execute the ETL process on the whole datasets and load data into the different tables
-•	Run test.ipynb  to confirm the creation of the tables with the correct columns. Make sure to click "Restart kernel" to close the connection to the database after running this notebook, and the etl-proto.ipynb  as well 
-•	EXAMPLE-QUERIES.ipynb  to execute some queries for analysis purpose
+- Run create_tables.py to drop if exists then create your database and tables.
+- Run etl.py to execute the ETL process on the whole datasets and load data into the different tables
+- Run test.ipynb  to confirm the creation of the tables with the correct columns. Make sure to click "Restart kernel" to close the connection to the database after running this notebook, and the etl-proto.ipynb  as well 
+- EXAMPLE-QUERIES.ipynb  to execute some queries for analysis purpose
